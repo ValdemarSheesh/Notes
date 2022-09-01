@@ -1,7 +1,6 @@
 package com.demo.notes;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 
 import android.content.Intent;
@@ -12,6 +11,9 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.Spinner;
 import android.widget.Toast;
+
+import com.demo.notes.data.MainViewModel;
+import com.demo.notes.data.Note;
 
 public class AddNoteActivity extends AppCompatActivity {
 

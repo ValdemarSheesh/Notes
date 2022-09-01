@@ -1,4 +1,4 @@
-package com.demo.notes;
+package com.demo.notes.data;
 
 
 import androidx.room.Entity;

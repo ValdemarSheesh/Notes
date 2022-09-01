@@ -1,4 +1,4 @@
-package com.demo.notes;
+package com.demo.notes.data;
 
 import android.app.Application;
 import android.os.AsyncTask;
@@ -6,7 +6,6 @@ import android.os.AsyncTask;
 import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
-import androidx.room.Delete;
 
 import java.util.List;
 

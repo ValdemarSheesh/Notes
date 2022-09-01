@@ -13,6 +13,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+import com.demo.notes.data.MainViewModel;
+import com.demo.notes.data.Note;
+
 import java.util.ArrayList;
 import java.util.List;
 
